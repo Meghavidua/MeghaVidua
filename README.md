@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **meghavidua786@gmail.com**
 
-- 🌱 I’m currently learning **Cypress, AWS Testing**
+- 🌱 I’m currently learning **Cypress, AWS Testing, ReactJS**
 
 - 💬 Ask me about **Java, Selenium**
 
