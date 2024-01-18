@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/meghabidua" target="blank"><img src="https://img.shields.io/twitter/follow/meghabidua?logo=twitter&style=for-the-badge" alt="meghabidua" /></a> </p>
 
-- 🔭 I’m currently working on [Phygital24](https://phygital24.com/)
+- 🔭 I’m currently Open for work
 
 - 📫 How to reach me **meghavidua786@gmail.com**
 
