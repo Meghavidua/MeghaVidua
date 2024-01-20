@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Cypress, AWS Testing, ReactJS**
 
-- 💬 Ask me about **Java, Selenium**
+- 💬 Ask me about **Java, Selenium, JavaScript**
 
 - 📄 Know about my experiences **Manual Testing, Automation Testing, ReactJs**
 
