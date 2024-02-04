@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, Selenium, JavaScript**
 
-- 📄 Know about my experiences **Manual Testing, Automation Testing, ReactJs**
+- 📄 Know about my experiences **Manual Testing, Automation Testing**
 
 - ⚡ Fun fact **I am funny , Extrovert Person**
 
