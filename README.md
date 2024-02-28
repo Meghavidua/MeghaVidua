@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences **Manual Testing, Automation Testing**
 
-- ⚡ Fun fact **I am funny , Extrovert Person**
+- ⚡ Fun fact **I am funny, Extrovert Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
