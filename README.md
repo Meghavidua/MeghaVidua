@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **meghavidua786@gmail.com**
 
-- 🌱 I’m currently learning **AWS,MERN stack**
+- 🌱 I’m currently learning **AWS,MERN Stack**
 
 - 💬 Ask me about **Java, Selenium, JavaScript**
 
