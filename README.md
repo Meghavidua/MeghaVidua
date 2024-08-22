@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **meghavidua786@gmail.com**
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Java, Selenium, JavaScript**
 
