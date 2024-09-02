@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Java, Selenium, JavaScript, linux**
+- 💬 Ask me about **Java, Selenium, JavaScript,**
 
 - 📄 Know about my experiences **Manual Testing, Automation Testing**
 
