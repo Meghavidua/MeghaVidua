@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **meghavidua786@gmail.com**
 
-- 🌱 I’m currently learning **Virtualization**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Java, Selenium, JavaScript, Linux administration, AWS**
 
