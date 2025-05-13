@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Java, Selenium, JavaScript, Linux administration, Docker**
+- 💬 Ask me about **Java, Selenium, JavaScript, Linux administration, Docke**
 
 - 📄 Know about my experiences **Manual Testing, Automation Testing**
 
